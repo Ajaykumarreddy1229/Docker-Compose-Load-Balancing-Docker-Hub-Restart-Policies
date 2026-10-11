@@ -662,7 +662,6 @@ Yes. Each container has its own network namespace. Containers can use the same i
 Traditional Docker Compose is primarily used to manage applications on a single Docker host. Multi-host orchestration requires a suitable orchestration platform.
 
 ---
-
 ## Summary
 
 In this learning session, I covered:
